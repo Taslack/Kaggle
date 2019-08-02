@@ -1,3 +1,4 @@
+#%%
 #Question 1.
 pi = 3.14159 # approximate
 diameter = 3
@@ -9,6 +10,7 @@ radius = diameter / 2
 area = pi * (radius ** 2)
 print(area)
 
+#%%
 #Question 2.
 #Add code to the following cell to swap variables `a` and `b` (so that `a` refers to the object previously referred to by `b` and vice versa).
 ########### Setup code - don't touch this part ######################
@@ -26,6 +28,7 @@ a, b = b, a
 print(a, b)
 ######################################################################
 
+#%%
 #Question 3.
 # a) Add parentheses to the following expression so that it evaluates to 1.
 c = (5 - 3) // 2
@@ -35,6 +38,7 @@ print(c)
 d = 8 - 3 * 2 - (1 + 1)
 print(d)
 
+#%%
 #Question 4
 # Alice, Bob and Carol have agreed to pool their Halloween candy and split it evenly among themselves.
 # For the sake of their friendship, any candies left over will be smashed. For example, if they collectively
