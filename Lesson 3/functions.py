@@ -1,3 +1,4 @@
+#%%
 #Exercise 1
 def round_to_two_places(num):
     num = round(num, 2)
@@ -5,3 +6,5 @@ def round_to_two_places(num):
     return num
 
 round_to_two_places(12.323456)
+
+#%%
